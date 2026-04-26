@@ -90,7 +90,7 @@ spectre/
 
 ## Why not ActivityWatch?
 
-ActivityWatch is excellent but heavy — multi-process architecture, complex setup, and Wayland support on KDE is still incomplete. SPECTRE is intentionally minimal: a single Python daemon, tight KDE integration, zero bloat, and a dashboard that looks like it belongs on a hacker's second monitor.
+ActivityWatch is excellent but heavy — multi-process architecture, complex setup, and Wayland support on KDE is still incomplete. SPECTRE is intentionally minimal: a single Python daemon, tight KDE integration and zero bloat.
 
 ---
 
